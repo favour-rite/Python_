@@ -1,0 +1,26 @@
+SDLC
+>>> Plan
+>>> Design
+>>> Implementation
+>>> Testing 
+>>> Deployment
+>>> Maintenance
+Check edge cases
+when naming functions use (verb)
+
+ip address
+DNS
+13 domain name servers(mapped an ip address to www.googlecom) 
+
+
+Stategy
+given (pre-conditions)
+action the functionality being tested
+check
+
+
+
+
+
+three laws of tdd
+u may not write production code                                                                                                                                                                                                                    

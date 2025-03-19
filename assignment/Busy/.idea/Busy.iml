@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/airConditioner/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bank/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/bike/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/diary/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/dsa/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/television/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sevensegment/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tictactoe/test" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
